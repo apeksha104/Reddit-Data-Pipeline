@@ -6,7 +6,8 @@ This project establishes an end-to-end data engineering solution to orchestrate 
 
 ## 🏗️ Architecture
 
-![RedditDataEngineering.png](2FRedditDataEngineering.png)
+![image](https://github.com/apeksha104/Reddit-Data-Pipeline/assets/52379747/74bc4502-07bb-4ad6-8554-c394d96f3bc6)
+
 
 1. **Reddit API**: Serves as the primary data source.
 2. **Apache Airflow & Celery**: Orchestrates the ETL process and efficiently manages task distribution.
