@@ -160,9 +160,6 @@ This orchestrated workflow provides a structured and automated approach to the e
 
 Monitoring is facilitated through the Airflow web UI, providing insights into task execution, logs, and overall pipeline health.
 
-## 🤝 Contributing
-
-Contribute to the project by submitting bug reports, feature requests, or code contributions. Follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ## 📝 License
 
