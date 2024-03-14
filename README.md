@@ -1,4 +1,4 @@
-# Reddit-Data-Pipeline
+# ReddiFlow
 
 ## 🚀 Overview
 
