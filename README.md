@@ -30,7 +30,7 @@ Ensure the following prerequisites are met before setting up the system:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/airscholar/RedditDataEngineering.git
+   git clone https://github.com/apeksha104/Reddit-Data-Pipeline.git
    ```
 
 2. **Create a virtual environment:**
